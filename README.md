@@ -12,3 +12,5 @@ In addition to navigating the maze and avoiding deadly zombies, players could ha
    About the key, player will need to find the key and increase 1 key.</h5>
 <h5>4) The conditional logics is also the variable key. If player don't collect the key or found a fake key, player can't open the exit door, therefore, the logics force players to find the true key first.</h5>
 <h5>5) My game story based on the movie called the maze runner. Unlike the movie for a group of people escape the maze, I personally do some changes inside my game such as one single person, some explore messages and players need to adding the key and false key.</h5>
+
+<h1>The game playable link</h1>
