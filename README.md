@@ -14,3 +14,4 @@ In addition to navigating the maze and avoiding deadly zombies, players could ha
 <h5>5) My game story based on the movie called the maze runner. Unlike the movie for a group of people escape the maze, I personally do some changes inside my game such as one single person, some explore messages and players need to adding the key and false key.</h5>
 
 <h1>The game playable link</h1>
+https://zhibin.itch.io/cmpm148-hw1-bitsy
