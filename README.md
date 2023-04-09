@@ -6,7 +6,7 @@ My game story based on the movie called the maze runner; however in my game vers
 In addition to navigating the maze and avoiding deadly zombies, players could have chances to collect a key, tea and found the door. The key will unlock a door that leads to the exit of the maze. As the player explores the maze, they will come across various messages that will provide them with clues and help them advance further. These messages could be the wrong information about the key, the location of true key and the location of true exist.
 
 <h1>Assignment Specification:</h1>
-<h5>1) The game have 5 rooms includes Main room, Top room, bottom room, right room and left romm.</h5>
+<h5>1) The game have 5 rooms includes Main room, Top room, bottom room, right room and left room.</h5>
 <h5>2) The game have more 5 different objects or secondary characters such as the key, tea, door, monster, zombies , messages, and weak zombies.</h5>
 <h5>3) The game have two variable health(HP) and key. About the health, player can drink green tea to increase 1 health and fight with weak zombies to decrease 1 health.
    About the key, player will need to find the key and increase 1 key.</h5>
